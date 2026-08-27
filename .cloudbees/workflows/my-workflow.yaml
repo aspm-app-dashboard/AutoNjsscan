@@ -2,6 +2,7 @@ apiVersion: automation.cloudbees.io/v1alpha1
 kind: workflow
 name: My workflow
 
+# test comment
 on:
   push: 
     branches:
